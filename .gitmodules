@@ -1,0 +1,3 @@
+[submodule "summer-reading-data"]
+	path = summer-reading-data
+	url = https://github.com/carnegielibrary/summer-reading-data.git
